@@ -1,1 +1,1 @@
-# com.lee.streetgangfight
+# config_comleestreetgangfight
